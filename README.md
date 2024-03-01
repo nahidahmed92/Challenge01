@@ -2,7 +2,7 @@
 
 ## Marketing Agency Code Accessibility
 
-In this challenge I have updated the index.html and style.css file to meet accessbility standards.
+In this challenge I have updated the source code to meet accessbility standards.
 
 ## Link
 
